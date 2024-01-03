@@ -179,7 +179,11 @@ body {
         border-radius: 25px;
     }
 
-
+    .content li {
+        float: left;
+        margin-right:1.16vw;
+        list-style-type: none;
+    }
 
     .quebonafide {
         background-image: url(images/que1.jpg);
@@ -321,7 +325,6 @@ body {
         padding: 2% 5% 2% 5%;
         border-radius: 25px;
     }
-
 
 
     
