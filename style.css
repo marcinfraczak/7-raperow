@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: red;
     color:white;
     font-family: Tahoma;
     scroll-behavior: smooth;
@@ -183,7 +183,6 @@ body {
         float: left;
         margin-right:1.16vw;
         list-style-type: none;
-        display:inline;
     }
 
     .quebonafide {
@@ -318,7 +317,9 @@ body {
         font-size: 1.5vw;
     }
 
-
+    .content li {
+        list-style-type: circle;
+    }
 
     .content {
         width: 60%;
