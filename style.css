@@ -183,6 +183,7 @@ body {
         float: left;
         margin-right:1.16vw;
         list-style-type: none;
+        display:inline;
     }
 
     .quebonafide {
